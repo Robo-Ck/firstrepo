@@ -1,1 +1,11 @@
-Hello World!
+#Hello World!
+##This text is h2
+
+*this text is italic*
+**this text is bold**
+
+```javascript
+
+let str = "this is js code";
+alert(str);
+```
